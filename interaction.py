@@ -42,11 +42,6 @@ click_thread.start()
 
 
 
-# driver.find_element(By.NAME, value="fName").send_keys("Revanth")
-# driver.find_element(By.NAME, value="lName").send_keys("Neelakantham")
-# driver.find_element(By.NAME, value="email").send_keys("reva.neelakantham@gmail.com")
-# driver.find_element(By.CSS_SELECTOR, value=".form-signin .btn-primary").click()
-
 
 
 
